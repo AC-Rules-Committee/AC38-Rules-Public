@@ -1,6 +1,6 @@
 # AC38 Rule Documents — Public Releases
 
-This repository contains the official published release artifacts for the AC38 Rule Documents.
+This repository contains the official published releases of the Rule Documents for the 38th America's Cup.
 
 ## Available Downloads
 
